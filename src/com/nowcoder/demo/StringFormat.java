@@ -9,6 +9,14 @@ import org.junit.Test;
  *
  */
 public class StringFormat {
+	/**
+	 * 
+	 * @param A
+	 * @param n
+	 * @param arg
+	 * @param m
+	 * @return
+	 */
 	public String formatString(String A, int n, char[] arg, int m) {
 		// write code here
 		StringBuffer stringBuffer = new StringBuffer();
